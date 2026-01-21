@@ -1,0 +1,6 @@
+path: datasets/RoadVehicleData2_5c
+train: train/images
+val: valid/images
+test: valid/images
+names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
+nc: 5

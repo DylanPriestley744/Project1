@@ -1,0 +1,8 @@
+path: datasets/VehiclesDetectionDataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: ["Ambulance","Bus","Car","Motorcycle","Truck"]
+nc: 5
